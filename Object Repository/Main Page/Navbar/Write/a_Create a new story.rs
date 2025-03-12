@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create a new story</name>
+   <tag></tag>
+   <elementGuidId>ddbf495d-78af-42b6-98fd-dbc65cbda38d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.c97t-</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Create a new story' or . = 'Create a new story')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='writer-opportunities-dropdown']/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a479fd7-d1ff-42b6-aae4-f096430ce67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>1bb916ce-48d0-46ce-8675-de35d06ba095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>402afc2d-4d8d-4df3-b770-a5618d313362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>a0ab3492-4959-48a1-a254-5944b19b28a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a new story</value>
+      <webElementGuid>4e7a2acc-6f71-4466-87ef-ca3d332d48f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;writer-opportunities-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa M33oU&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>35250b22-652c-41ab-a38a-d55819ed0143</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='writer-opportunities-dropdown']/div[2]/ul/li/a</value>
+      <webElementGuid>7dca3520-70f9-4ec8-a369-5c15ba03b601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create a new story')]</value>
+      <webElementGuid>2e5b31f1-64e7-4285-b7fa-3c138a4756f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/following::a[1]</value>
+      <webElementGuid>d93ca931-9df1-49e0-a342-04413e406699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/following::a[1]</value>
+      <webElementGuid>1034f049-2593-4645-9174-5e6adab90434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Helpful writer resources'])[1]/preceding::a[2]</value>
+      <webElementGuid>a7e3d178-95f6-425e-9394-14ef9eb7f820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad programs &amp; opportunities'])[1]/preceding::a[3]</value>
+      <webElementGuid>c0b2ee06-7513-4e64-9aeb-8fd4828dac17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create a new story']/parent::*</value>
+      <webElementGuid>ebdf34ae-3ead-456a-9ef6-34880563d4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>53c55611-54cc-4e73-a932-d409d5e5861a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>1f63d8a6-26d8-42f9-9581-e7970611d942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Create a new story' or . = 'Create a new story')]</value>
+      <webElementGuid>bd250075-b7b2-4f0d-b5a5-a6cfbb85050b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

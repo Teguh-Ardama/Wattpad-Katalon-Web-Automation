@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Teen Fiction</name>
+   <tag></tag>
+   <elementGuidId>00746410-7aa3-4ec6-a04e-7a2dd1e31568</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'https://www.wattpad.com/stories/teenfiction' and (text() = 'Teen Fiction' or . = 'Teen Fiction')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='discover-dropdown']/div[2]/div/ul/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdc97049-05dc-4fd6-8cb2-11fcd67dc780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>61895745-2618-4618-8c59-7d826768f93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.wattpad.com/stories/teenfiction</value>
+      <webElementGuid>9d9f26fe-eebb-44d7-909e-2089d01fbb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>d717c445-9be9-4191-80be-5d8ffd41da0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>0b3109ea-bc14-441e-90cc-84121596ccac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Teen Fiction</value>
+      <webElementGuid>75ba613f-515a-42fa-b157-0c0bd48a44ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discover-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa MllQ5&quot;]/div[@class=&quot;zCGIO&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>3e626912-d795-4d73-95c1-d8b20cfb8c9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='discover-dropdown']/div[2]/div/ul/li[10]/a</value>
+      <webElementGuid>050f8d7d-6ecf-4603-aca0-29d47526771f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Teen Fiction')]</value>
+      <webElementGuid>991a38ef-9743-46fe-bebf-bc8255dd1be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Short Story'])[1]/following::a[1]</value>
+      <webElementGuid>6dd90fbb-3962-4bb2-989b-b6c0e2e82af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fantasy'])[1]/following::a[2]</value>
+      <webElementGuid>7b78f65a-c90d-40f4-98b6-9d2e5ab3c404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historical Fiction'])[1]/preceding::a[1]</value>
+      <webElementGuid>252d3ed6-184b-460f-baee-a3e6e100c8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paranormal'])[1]/preceding::a[2]</value>
+      <webElementGuid>327098a4-d231-474d-aee2-0d366068c43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Teen Fiction']/parent::*</value>
+      <webElementGuid>bc0905cb-4c20-4833-8ce9-68b1f1b0acfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.wattpad.com/stories/teenfiction')]</value>
+      <webElementGuid>5cc3a835-1e85-4657-b08a-5fff67856b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>ebc42443-3e5b-4a93-aadb-ac9c0cf09326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.wattpad.com/stories/teenfiction' and (text() = 'Teen Fiction' or . = 'Teen Fiction')]</value>
+      <webElementGuid>07530599-1595-4db3-b965-e61bb44a2e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Wattpad Support</name>
+   <tag></tag>
+   <elementGuidId>a83b5490-9ef5-46e8-a0aa-c1db68a1bdf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.HuEB9._3lofP</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Send instructions']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fda15b7b-a504-4f6a-b293-5cdfdf597470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>submit-btn</value>
+      <webElementGuid>d47c1876-f61b-4802-b835-6bbd35655022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>04b1c71a-c5da-4bdf-aad6-e6d04668871a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>HuEB9 _3lofP</value>
+      <webElementGuid>ff646614-c5eb-4679-9d05-d179eb1d6fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Send instructions</value>
+      <webElementGuid>e00a1c69-e055-4c4c-9bf1-9b05256b5b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forgot-password-form&quot;)/div[@class=&quot;hF3B-&quot;]/input[@class=&quot;HuEB9 _3lofP&quot;]</value>
+      <webElementGuid>eb43f1a7-453e-4579-bcae-c5a7204f280a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Send instructions']</value>
+      <webElementGuid>1c86198e-6dd2-4039-8aa8-8c8df0026c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='forgot-password-form']/div[2]/input</value>
+      <webElementGuid>32d92b47-904d-4691-bfd7-c87b993060b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>236b3108-56d8-49eb-95d6-6dd8be5ed408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>ff0c62c8-0d37-49b2-a5b1-444abb62cbef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

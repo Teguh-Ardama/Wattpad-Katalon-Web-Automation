@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Browse</name>
+   <tag></tag>
+   <elementGuidId>4cba7959-d588-486b-aeba-cf2f7b394331</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.WlC60</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Browse' or . = 'Browse')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='discover-dropdown']/div[2]/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3aac71db-da59-4c6d-abaf-246e68245765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WlC60</value>
+      <webElementGuid>a2ed7ae9-8931-4420-bd06-245306d190f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse</value>
+      <webElementGuid>592113aa-1e7e-4aec-8242-1b90a5e20850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discover-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa MllQ5&quot;]/div[@class=&quot;zCGIO&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;WlC60&quot;]</value>
+      <webElementGuid>ac03eefa-5034-479e-8be4-b0d60457ebf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='discover-dropdown']/div[2]/div/ul/li</value>
+      <webElementGuid>e648e73b-31d0-47ec-aa89-331e7a26417b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/following::li[1]</value>
+      <webElementGuid>d35c9e75-a957-40bd-b3b1-530b1a825830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Romance'])[1]/preceding::li[1]</value>
+      <webElementGuid>0a94053d-ebc4-4d77-867d-5012b23bb87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fanfiction'])[1]/preceding::li[2]</value>
+      <webElementGuid>755dd4cb-78ec-439c-b12f-56ae472bf011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li</value>
+      <webElementGuid>cfa59628-fb7b-4be9-a17a-10e7d17fe1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Browse' or . = 'Browse')]</value>
+      <webElementGuid>2abafa50-1738-44c4-8ffc-7ada12414ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

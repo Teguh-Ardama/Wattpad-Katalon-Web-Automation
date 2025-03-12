@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Write</name>
+   <tag></tag>
+   <elementGuidId>9d7bb62f-c6d5-4775-82ba-fd8f06e7aa24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#writer-opportunities-dropdown > button.DMdhq.sPJMO</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Write' or . = 'Write')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='writer-opportunities-dropdown']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d7e67a0-d922-44e0-a536-7614ca900d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DMdhq sPJMO</value>
+      <webElementGuid>802f5e90-94e3-47ee-ad67-67ba2d9ae206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Write</value>
+      <webElementGuid>1e7932d2-3ebc-46c8-8231-39c790cdd094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;writer-opportunities-dropdown&quot;)/button[@class=&quot;DMdhq sPJMO&quot;]</value>
+      <webElementGuid>b400a1f7-f86c-40ba-88d7-95ba5837b392</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='writer-opportunities-dropdown']/button</value>
+      <webElementGuid>60a4579a-fa09-42bd-ba12-9d99405cdce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/following::button[2]</value>
+      <webElementGuid>2d4a6dd3-c738-4035-a378-e76ce3f2254f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/following::button[3]</value>
+      <webElementGuid>645df91c-c138-4a7f-83ac-9eca059fa313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Premium'])[1]/preceding::button[1]</value>
+      <webElementGuid>80bbee4b-4780-4e45-90e2-059471d8196f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::button[2]</value>
+      <webElementGuid>c74c8d8c-56d8-42d6-abe3-2364580eb813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Write']/parent::*</value>
+      <webElementGuid>fc4c392c-62f4-4adc-afd6-6715324d09c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div/button</value>
+      <webElementGuid>23e3157e-1856-4a70-a04b-e94e343537e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Write' or . = 'Write')]</value>
+      <webElementGuid>8024ed59-3f89-42ec-8ff9-06c655f4f03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

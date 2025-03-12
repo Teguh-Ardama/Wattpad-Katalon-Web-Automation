@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reading Radar</name>
+   <tag></tag>
+   <elementGuidId>2dd7efc2-50e2-4910-a925-fcc93a3341f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._2aB5H > ul._0X2RS > li.fnWge > a.c97t-</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Reading Radar' or . = 'Reading Radar')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='discover-dropdown']/div[2]/div[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cfd3d42e-bf7d-4a48-87dc-36ae50b1298d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>0138921d-5573-4d8d-9be1-9de11aa5c3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/featured/551324301</value>
+      <webElementGuid>013baba6-47bb-406c-955e-32550cc9c0a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>1dcd93e3-f674-4e85-a02b-d0dc9cc3a269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>a6a2c08a-c118-4c2b-94a7-bc9e77ce0c15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reading Radar</value>
+      <webElementGuid>92896bf8-806e-4a18-90df-8471b92da544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discover-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa MllQ5&quot;]/div[@class=&quot;_2aB5H&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>f9c29316-640c-4468-83a6-4e29aad25dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='discover-dropdown']/div[2]/div[2]/ul/li[2]/a</value>
+      <webElementGuid>4da5544f-48b5-43b4-91c9-01b858b2186c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reading Radar')]</value>
+      <webElementGuid>da9b84c7-9dce-4895-86a1-5c3d81ded991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad Picks'])[1]/following::a[1]</value>
+      <webElementGuid>269062d3-8b40-4204-b037-e0e7a32eb5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poetry'])[1]/following::a[1]</value>
+      <webElementGuid>e5d03f88-a877-47df-9953-6ad0d811e09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campus Romances 💞📚'])[1]/preceding::a[1]</value>
+      <webElementGuid>7ccd777a-aa6f-4bbb-aee4-870566579f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supernatural Love 💘🦇'])[1]/preceding::a[2]</value>
+      <webElementGuid>3a5f868c-103e-43cf-8115-cbed27dadd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reading Radar']/parent::*</value>
+      <webElementGuid>5d8339ba-bd6b-41f3-b163-5c92b0c741a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/featured/551324301')]</value>
+      <webElementGuid>81229631-4717-4505-add6-f01a4c4da47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a</value>
+      <webElementGuid>639dd143-4476-495c-bc22-cdc12f333dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/featured/551324301' and (text() = 'Reading Radar' or . = 'Reading Radar')]</value>
+      <webElementGuid>1d946762-6720-49b4-8801-1933e7530f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

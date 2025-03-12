@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_I already have an account</name>
+   <tag></tag>
+   <elementGuidId>ec840cd8-459e-4313-b904-426c6704fabf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button__Y70Pw.tertiary-variant__Y9kWU.default-accent__Pc0Pm.medium-size__CLqD3.clickable__iYXtN.full-width__dXWyx.with-padding__cVt72 > span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74337f87-9f3b-4bc2-8e0e-f4737484d539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>ee771ec8-6f80-45b0-ad76-63217d8ed4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/header[@class=&quot;_11tkV&quot;]/div[@class=&quot;V6xUE _7Y1LD&quot;]/div[@class=&quot;uWKBG mQAIZ UCQAd&quot;]/div[@class=&quot;DPNYd KeF9t y8BeG&quot;]/div[@class=&quot;_39lYR eNMWT&quot;]/div[@class=&quot;bJPuR&quot;]/div[@class=&quot;p2vKb&quot;]/button[@class=&quot;button__Y70Pw tertiary-variant__Y9kWU default-accent__Pc0Pm medium-size__CLqD3 clickable__iYXtN full-width__dXWyx with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>bc39c2bc-3d41-4bd3-afd8-2e548d50450c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I already have an account</value>
+      <webElementGuid>9b162045-abf9-4ee8-9995-2aa8d8f51e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>b80f67f4-dc4b-407f-8fc1-a486cceaed67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Writers</name>
+   <tag></tag>
+   <elementGuidId>3dabd422-ad4d-4625-91e9-a7805e7fcbbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a.u5f7-.sB6J0._58Jsq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Writers')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7a89597-fd8f-4cd1-a648-a475b62852fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u5f7- sB6J0 _58Jsq</value>
+      <webElementGuid>0ddf61c7-fd04-485c-8df7-5b92acaf7461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.wattpad.com/writers</value>
+      <webElementGuid>47b38a24-ce17-4df9-8e06-94dace8832c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Writers</value>
+      <webElementGuid>72a9dec7-da56-4d2f-b1e2-5f0db1f30cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/footer[@class=&quot;KsomK PUdBR _3iH-u&quot;]/ul[@class=&quot;la6-S ehTVt _96aZR PUdBR _3iH-u&quot;]/li[5]/a[@class=&quot;u5f7- sB6J0 _58Jsq&quot;]</value>
+      <webElementGuid>f62fc2c4-bce2-4868-953c-7e7cac0c8155</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Writers')]</value>
+      <webElementGuid>079447ef-7669-4d39-98e0-7acd890970f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/following::a[1]</value>
+      <webElementGuid>ce0d4adb-dfda-4867-b145-499b1f6eccbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the App'])[1]/following::a[1]</value>
+      <webElementGuid>cd5593d6-400a-4e9c-b197-d2be783972da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Partnerships'])[1]/preceding::a[1]</value>
+      <webElementGuid>e4909b64-d96a-42f4-9fb1-157721ed8c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs'])[1]/preceding::a[2]</value>
+      <webElementGuid>3322b216-9b0e-42db-ba47-1840f9f2ff5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Writers']/parent::*</value>
+      <webElementGuid>5084f371-9869-4fac-a481-8f08b553b289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.wattpad.com/writers')]</value>
+      <webElementGuid>dd75c577-1953-4d21-bf6c-afbe2e499c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>71d66459-df84-4bdc-9948-882874601d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.wattpad.com/writers' and (text() = 'Writers' or . = 'Writers')]</value>
+      <webElementGuid>1ca6637f-9fc2-4bc1-8bcb-0764cdd291c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

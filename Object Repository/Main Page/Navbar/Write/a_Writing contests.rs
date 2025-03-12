@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Writing contests</name>
+   <tag></tag>
+   <elementGuidId>ae193ead-16b3-4d42-b205-5e942b6affe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://www.wattpad.com/go/writing-contests/' and (text() = 'Writing contests' or . = 'Writing contests')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='writer-opportunities-dropdown']/div[2]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ca13b8e-4a33-4204-a56b-1d7ecc0f8adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>339c3d03-e3db-4f12-9e92-bc400e7bef86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.wattpad.com/go/writing-contests/</value>
+      <webElementGuid>9fdf49d0-8a0b-4a32-b044-18c63c9bcb86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>5eb2b67e-f4ec-42e1-873f-681f6e04d062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>f209ccc1-812b-4b6e-a8d1-ae5bfde18316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Writing contests</value>
+      <webElementGuid>3b974383-e412-4193-a62d-6204776eb2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;writer-opportunities-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa M33oU&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>f75696c3-14a7-4a15-9699-450287bf2036</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='writer-opportunities-dropdown']/div[2]/ul/li[5]/a</value>
+      <webElementGuid>0c88656e-c34b-4248-81e5-07ae4164958c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Writing contests')]</value>
+      <webElementGuid>7ced8a56-80a1-4ded-af08-fc6288c31b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad programs &amp; opportunities'])[1]/following::a[1]</value>
+      <webElementGuid>c1d22df1-3457-4c7a-89b6-b4d3fa090dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Helpful writer resources'])[1]/following::a[2]</value>
+      <webElementGuid>848b03b6-f14e-4641-a1dd-d4faafcbc8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Premium'])[1]/preceding::a[1]</value>
+      <webElementGuid>9ac5be64-f680-46cb-883b-7eda376500e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d28c821-1e44-4e43-9836-e535026d925b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Writing contests']/parent::*</value>
+      <webElementGuid>9edd6e22-eaa0-48e8-bac2-e97858acb225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.wattpad.com/go/writing-contests/')]</value>
+      <webElementGuid>b3663347-285a-4136-8ab0-5c6e2ae445e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>6590f0ee-1086-446a-9c8c-b7d420947672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.wattpad.com/go/writing-contests/' and (text() = 'Writing contests' or . = 'Writing contests')]</value>
+      <webElementGuid>1ad5715a-2417-4339-b477-05e30a1740f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Premium Picks</name>
+   <tag></tag>
+   <elementGuidId>11f687a1-db09-4363-9822-72b8ebf96691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://www.wattpad.com/catalog/premiumpicks' and (text() = 'Premium Picks' or . = 'Premium Picks')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='discover-dropdown']/div[2]/div[2]/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e05fd5c-4874-455a-b2eb-22eb805175e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>333d1403-1671-49af-b325-4e5032f8266e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.wattpad.com/catalog/premiumpicks</value>
+      <webElementGuid>9d010691-6424-4482-9c84-8ff15a2560e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>86586ea8-ce26-48cb-bd9f-64e1c34f2e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>1b90e8ac-94fc-40b2-8bd5-c89093b45456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Premium Picks</value>
+      <webElementGuid>744beaff-d548-455f-9188-880be563507b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discover-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa MllQ5&quot;]/div[@class=&quot;_2aB5H&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>258dd09f-f9cd-40e2-8226-94991f1fe7f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='discover-dropdown']/div[2]/div[2]/ul/li[7]/a</value>
+      <webElementGuid>56fbd285-1909-4d1c-9834-8c980d2b6a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Premium Picks')]</value>
+      <webElementGuid>48bfd2b5-0766-4421-a447-8ecf8c0e6710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad WEBTOON Studios Hits ⭐'])[1]/following::a[1]</value>
+      <webElementGuid>92c15f2c-f120-4461-a23a-4576a965be0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stories by Her'])[1]/following::a[2]</value>
+      <webElementGuid>61ae5f55-d9aa-4dd6-8725-6ff08e6b7c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/preceding::a[1]</value>
+      <webElementGuid>2924bed9-b207-4d03-aef2-187837461c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/preceding::a[1]</value>
+      <webElementGuid>32ee127e-0256-4133-900f-3ca4217bfa5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Premium Picks']/parent::*</value>
+      <webElementGuid>d9e9e880-f241-4d78-9131-ab21f6bc679b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.wattpad.com/catalog/premiumpicks')]</value>
+      <webElementGuid>15c1ffa2-86d9-4f38-89d7-8b909414f59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[7]/a</value>
+      <webElementGuid>a420a94c-2855-41ac-a814-cf7566266c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.wattpad.com/catalog/premiumpicks' and (text() = 'Premium Picks' or . = 'Premium Picks')]</value>
+      <webElementGuid>16611a9b-71b3-41a7-b2b3-05c1f3aae9a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

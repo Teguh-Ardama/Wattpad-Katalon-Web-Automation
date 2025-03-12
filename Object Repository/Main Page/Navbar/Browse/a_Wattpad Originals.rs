@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wattpad Originals</name>
+   <tag></tag>
+   <elementGuidId>dd67bfef-f4da-4a21-aec0-129866e27fe5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'https://www.wattpad.com/catalog/wattpadoriginals' and (text() = 'Wattpad Originals' or . = 'Wattpad Originals')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='discover-dropdown']/div[2]/div/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f2ff9f5-1f47-494f-a76f-d4a5e88eff24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>9768a0d7-21a5-48bb-aebb-b5440ae0080e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.wattpad.com/catalog/wattpadoriginals</value>
+      <webElementGuid>96310fdc-2b9c-4252-963d-d078643b5cd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>55e45e2e-075f-462f-87e1-a9c0dd1c8b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>368b72d1-f652-4c0e-b1e1-302694828664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wattpad Originals</value>
+      <webElementGuid>5de7b50b-c24e-42b0-9689-028b1fed0c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discover-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa MllQ5&quot;]/div[@class=&quot;zCGIO&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>e45f7814-4ca6-48ed-8e06-eb3381c40b0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='discover-dropdown']/div[2]/div/ul/li[5]/a</value>
+      <webElementGuid>70d8bbbf-a690-43f8-a52a-0a5b64318070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Wattpad Originals')]</value>
+      <webElementGuid>3cc7e020-6b9b-4e8a-80b1-c0d6cfa49ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LGBTQ+'])[1]/following::a[1]</value>
+      <webElementGuid>29033708-e661-43e9-b44f-d3a4af7643b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fanfiction'])[1]/following::a[2]</value>
+      <webElementGuid>598f16f8-cd1f-4851-95da-c22fa895fead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Werewolf'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f21de80-58f0-467b-8513-899ddae44304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Adult'])[1]/preceding::a[2]</value>
+      <webElementGuid>59a7ba38-7e13-46ed-99ec-9dfcaed01ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wattpad Originals']/parent::*</value>
+      <webElementGuid>c9891d07-846b-427e-98c4-6f5df8eda08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.wattpad.com/catalog/wattpadoriginals')]</value>
+      <webElementGuid>0ce4f27f-8261-472f-8278-8074103579e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>fe1263b6-b468-452a-9640-d3376199143e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.wattpad.com/catalog/wattpadoriginals' and (text() = 'Wattpad Originals' or . = 'Wattpad Originals')]</value>
+      <webElementGuid>749f0f48-8f55-4ec4-b037-c2311f42509b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

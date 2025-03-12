@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign up with email</name>
+   <tag></tag>
+   <elementGuidId>1e7fa79f-9da3-42c0-91da-964906b727cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>999b8c82-ea1f-4f2d-a208-70857aca831a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>7b5722d3-aecb-499f-87ea-44918abe6a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/header[@class=&quot;_11tkV&quot;]/div[@class=&quot;V6xUE _7Y1LD&quot;]/div[@class=&quot;uWKBG mQAIZ UCQAd&quot;]/div[@class=&quot;DPNYd KeF9t y8BeG&quot;]/div[@class=&quot;_39lYR eNMWT&quot;]/div[@class=&quot;bJPuR&quot;]/div[@class=&quot;p2vKb&quot;]/button[@class=&quot;xX-NR button__Y70Pw primary-variant__NO4pv default-accent__Pc0Pm medium-size__CLqD3 clickable__iYXtN full-width__dXWyx with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>9c844407-1e2c-4781-988a-c77c0511e2ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up with email</value>
+      <webElementGuid>26b84e4e-1c2d-4cfe-8ee1-b473bc11ea13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>d7ba1107-1358-4f61-87ff-3fa0c9c74b83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

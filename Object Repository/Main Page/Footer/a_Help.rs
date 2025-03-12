@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Help</name>
+   <tag></tag>
+   <elementGuidId>7548b20a-af82-4ca0-95d6-462a25e4f5ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6) > a._7TWJ4.sB6J0._58Jsq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Help')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c7017557-bb31-44d6-9f6e-864b4a78ebcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_7TWJ4 sB6J0 _58Jsq</value>
+      <webElementGuid>8ed8ee52-37f8-42c4-970e-3f7060204063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://support.wattpad.com</value>
+      <webElementGuid>6ee8e23a-6c3e-4499-8312-aab065738a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Help</value>
+      <webElementGuid>c4159776-765a-4139-a565-ece94ab8e87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/footer[@class=&quot;KsomK PUdBR _3iH-u&quot;]/ul[@class=&quot;VT-tn ehTVt _96aZR PUdBR _3iH-u&quot;]/li[6]/a[@class=&quot;_7TWJ4 sB6J0 _58Jsq&quot;]</value>
+      <webElementGuid>96b49874-20e5-4e56-b6dc-aebbcee225e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Help')]</value>
+      <webElementGuid>5893a4ec-c2c2-4aae-baa6-019b4bf257c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do Not Sell My Personal Information'])[1]/following::a[1]</value>
+      <webElementGuid>e4faa476-6e75-49f5-8476-430222392792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility'])[1]/following::a[2]</value>
+      <webElementGuid>38e74cf0-b9ee-47aa-8111-e9db2ed52315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Help']/parent::*</value>
+      <webElementGuid>2439ec0d-b919-4f78-97f8-3a22aa2c43e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://support.wattpad.com')]</value>
+      <webElementGuid>18ef3b23-ea03-4876-96e9-cef182155f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>324b75f0-3d6b-4bf0-8ba3-43076fd05d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://support.wattpad.com' and (text() = 'Help' or . = 'Help')]</value>
+      <webElementGuid>2de6ea68-236d-44ca-8113-b8e3cd54d29b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

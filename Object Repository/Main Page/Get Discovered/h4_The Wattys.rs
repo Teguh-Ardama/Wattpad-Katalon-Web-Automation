@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_The Wattys</name>
+   <tag></tag>
+   <elementGuidId>7b225e20-a8a7-42ec-8906-e96aecbbc67b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='GetDiscovered']/div/div/a[2]/div[2]/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>3b6cb4e1-87ba-40f1-81af-0966b5e79555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>9c86c083-d22a-497f-a687-fff1bc22a955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Wattys</value>
+      <webElementGuid>d27ce2d0-9884-4cd9-9f61-d40e85674035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GetDiscovered&quot;)/div[@class=&quot;Ts6Uf&quot;]/div[@class=&quot;d2Hid&quot;]/a[@class=&quot;tJ8VN&quot;]/div[@class=&quot;wD0Bj&quot;]/h4[1]</value>
+      <webElementGuid>770e0a03-5ca8-47db-ae0c-fa47fa2229bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GetDiscovered']/div/div/a[2]/div[2]/h4</value>
+      <webElementGuid>732e8710-21f7-426d-b593-50c23939ef13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Writing Contests'])[1]/following::h4[1]</value>
+      <webElementGuid>7899cf13-d4a5-40b4-9856-c72a899bd238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Discovered'])[1]/following::h4[2]</value>
+      <webElementGuid>137924f5-0540-435b-b09e-c6eeb70a449d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad Picks'])[1]/preceding::h4[1]</value>
+      <webElementGuid>32a740aa-214f-4ea2-ad45-b2118a5e7b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The world’s most positive platform for brands to engage Gen Z.'])[1]/preceding::h4[2]</value>
+      <webElementGuid>5b264ec9-8c13-4c92-8e08-ac583d7aae2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Wattys']/parent::*</value>
+      <webElementGuid>b7fa464b-50ff-48a3-bcb5-2f3d0b82a111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/h4</value>
+      <webElementGuid>c26e25da-e01b-4571-8a06-266423f1c26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'The Wattys' or . = 'The Wattys')]</value>
+      <webElementGuid>13872265-73df-4c19-9de2-507a52516bf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

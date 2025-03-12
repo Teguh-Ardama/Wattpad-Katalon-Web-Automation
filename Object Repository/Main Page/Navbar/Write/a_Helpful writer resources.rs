@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Helpful writer resources</name>
+   <tag></tag>
+   <elementGuidId>77c3c00a-8140-4a55-b026-758cb657928b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://creators.wattpad.com/creators-101/' and (text() = 'Helpful writer resources' or . = 'Helpful writer resources')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='writer-opportunities-dropdown']/div[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a97dbe00-ec3c-4180-afc7-baa0e432615b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c97t-</value>
+      <webElementGuid>fc72e3d7-3042-4376-978a-fc83a678a9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://creators.wattpad.com/creators-101/</value>
+      <webElementGuid>59143c86-405f-4945-9841-c47bd1f6394b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>71eafbb2-cebc-43f3-b7bc-06a20e4b04dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>0e038725-d01a-42b6-9b3f-368e1183f0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Helpful writer resources</value>
+      <webElementGuid>23e850cd-b2b8-4331-b589-cd9fb3402742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;writer-opportunities-dropdown&quot;)/div[@class=&quot;MaVh4 V-8Oa M33oU&quot;]/ul[@class=&quot;_0X2RS&quot;]/li[@class=&quot;fnWge&quot;]/a[@class=&quot;c97t-&quot;]</value>
+      <webElementGuid>bd749cc4-0da5-442f-a664-b080194b849c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='writer-opportunities-dropdown']/div[2]/ul/li[3]/a</value>
+      <webElementGuid>18385cea-101d-419f-81cf-21f9a053f947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Helpful writer resources')]</value>
+      <webElementGuid>08179969-4ac2-4df0-b69b-9daf763932bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/following::a[3]</value>
+      <webElementGuid>1f499b15-63d6-42cf-adde-ab29fd8c9c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/following::a[3]</value>
+      <webElementGuid>b256ea2f-ddde-445c-b301-321f2f6de469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad programs &amp; opportunities'])[1]/preceding::a[1]</value>
+      <webElementGuid>1321c7f2-25a2-4d9d-9403-e85101bce3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Writing contests'])[1]/preceding::a[2]</value>
+      <webElementGuid>ac4c28c5-4e34-4ef7-a177-b51eeb390066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Helpful writer resources']/parent::*</value>
+      <webElementGuid>588b5f6f-c453-42f4-8601-cea7394adcc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://creators.wattpad.com/creators-101/')]</value>
+      <webElementGuid>d855ca60-3cef-4cbd-9304-3fe420cc2b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>2e51af98-83b5-4dab-994d-f3206ca69326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://creators.wattpad.com/creators-101/' and (text() = 'Helpful writer resources' or . = 'Helpful writer resources')]</value>
+      <webElementGuid>64de44ea-0ef5-4ef3-bc05-ee76a58ae327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

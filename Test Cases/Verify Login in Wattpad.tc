@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Login in Wattpad</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cca1a9b7-ab7e-48f2-b5e4-412b31bc3f6c</testCaseGuid>
+</TestCaseEntity>

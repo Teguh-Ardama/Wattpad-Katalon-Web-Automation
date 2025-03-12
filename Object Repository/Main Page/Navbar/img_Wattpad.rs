@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Wattpad</name>
+   <tag></tag>
+   <elementGuidId>5561afc7-ea99-4087-aac0-f5c95891b43f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.XY9s6</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src = '/wp-web-assets/images/wattpad-logo.svg' and @alt = 'Wattpad Logo']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Wattpad Logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9a36c7da-659e-4762-b197-f5f14ee1a429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XY9s6</value>
+      <webElementGuid>292823b5-54dd-441b-ada4-ed8ac83d9d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/wp-web-assets/images/wattpad-logo.svg</value>
+      <webElementGuid>c0dad373-03ac-46a8-b3c5-d746458d92dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Wattpad Logo</value>
+      <webElementGuid>39eb4629-d5ac-4691-af19-5fc99a026c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>wp-logo-orange</value>
+      <webElementGuid>a6849012-21bc-4b82-9e60-e370f1485aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/header[@class=&quot;_11tkV&quot;]/nav[@class=&quot;_7Y1LD&quot;]/ul[@class=&quot;qAqjS&quot;]/li[@class=&quot;orV2g&quot;]/a[@class=&quot;v0iVI&quot;]/img[@class=&quot;XY9s6&quot;]</value>
+      <webElementGuid>38394e17-794d-49f9-9edc-63b0105fd6e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Wattpad Logo']</value>
+      <webElementGuid>e9619627-d1b4-4fe6-841f-67a8314bbc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>b5a5f2de-743d-4721-a5ca-0d8d8edbdd1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/wp-web-assets/images/wattpad-logo.svg' and @alt = 'Wattpad Logo']</value>
+      <webElementGuid>b498ad66-b8ea-4e1f-ae00-e2d9caa58c97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

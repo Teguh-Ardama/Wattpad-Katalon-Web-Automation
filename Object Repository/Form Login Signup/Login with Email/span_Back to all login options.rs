@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back to all login options</name>
+   <tag></tag>
+   <elementGuidId>fb3771b9-8ab4-4e47-aff9-e22a641677f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Back to all login options' or . = 'Back to all login options')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c93cd682-eade-41f8-83a9-5d2e19c24b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>ffb99fb6-ef9f-4b7b-b060-6d6d19f1eafd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/header[@class=&quot;_11tkV&quot;]/div[@class=&quot;V6xUE _7Y1LD&quot;]/div[@class=&quot;uWKBG mQAIZ UCQAd&quot;]/div[@class=&quot;DPNYd KeF9t y8BeG&quot;]/div[@class=&quot;_39lYR eNMWT&quot;]/div[@class=&quot;bJPuR&quot;]/div[@class=&quot;p2vKb&quot;]/button[@class=&quot;TFXR- button__Y70Pw tertiary-variant__Y9kWU default-accent__Pc0Pm medium-size__CLqD3 clickable__iYXtN with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>858514ec-e2b6-4cbe-a31c-99f7f90fb1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Text</name>
+      <type>Main</type>
+      <value>Back to all login options</value>
+      <webElementGuid>e1fc019e-ab4b-4c70-84f2-2d01df72954e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>b31d2d32-8507-47bc-8cf1-efc65e0803fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

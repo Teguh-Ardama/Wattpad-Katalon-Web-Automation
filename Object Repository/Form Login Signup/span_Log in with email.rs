@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in with email</name>
+   <tag></tag>
+   <elementGuidId>e3441d70-6c6c-4ac4-8e97-f2b941dceeeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Log in with email' or . = 'Log in with email')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bea2d949-6611-4ab7-836a-81a403e3d122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>c7235ad5-318d-49e2-a288-3f2dfe97dda4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/header[@class=&quot;_11tkV&quot;]/div[@class=&quot;V6xUE _7Y1LD&quot;]/div[@class=&quot;uWKBG mQAIZ UCQAd&quot;]/div[@class=&quot;DPNYd KeF9t y8BeG&quot;]/div[@class=&quot;_39lYR eNMWT&quot;]/div[@class=&quot;bJPuR&quot;]/div[@class=&quot;p2vKb&quot;]/button[@class=&quot;xX-NR button__Y70Pw primary-variant__NO4pv default-accent__Pc0Pm medium-size__CLqD3 clickable__iYXtN full-width__dXWyx with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>58f2f76f-a0d3-48b2-b2bd-9ccbfae23609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in with email</value>
+      <webElementGuid>58b85a82-2580-4954-9125-e128e25deb66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>d6757ce8-7fc0-4cb5-ab65-7df8c48807f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

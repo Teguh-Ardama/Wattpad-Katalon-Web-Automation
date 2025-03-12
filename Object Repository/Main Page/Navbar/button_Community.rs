@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Community</name>
+   <tag></tag>
+   <elementGuidId>5b9f4f2a-9e06-4a2a-8b87-d3a23c2b51a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#community-dropdown > button.DMdhq.sPJMO</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Community' or . = 'Community')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='community-dropdown']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5fe97cbe-1192-4cb3-bc71-a72235717518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DMdhq sPJMO</value>
+      <webElementGuid>eee3c897-6c54-46c9-89df-8624999b087e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Community</value>
+      <webElementGuid>86fd9204-7bf3-4c79-8eba-ac9dd666af2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;community-dropdown&quot;)/button[@class=&quot;DMdhq sPJMO&quot;]</value>
+      <webElementGuid>b1697201-971b-4c2a-be4c-4c635177aa0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='community-dropdown']/button</value>
+      <webElementGuid>74250274-f99e-43c7-b8e6-dfcb963eab76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/following::button[1]</value>
+      <webElementGuid>bcf933d8-3336-4482-878b-4ae2db6e042b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[1]/preceding::button[2]</value>
+      <webElementGuid>a9ab19f6-d9b7-4956-beb1-a36b121bba92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Premium'])[1]/preceding::button[3]</value>
+      <webElementGuid>f6f5f704-2931-417a-bb1b-834b4c562c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Community']/parent::*</value>
+      <webElementGuid>7ece2c03-0403-4777-b000-3ae588842bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/button</value>
+      <webElementGuid>9e463742-aa95-426b-bdab-e9cf85f5d26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Community' or . = 'Community')]</value>
+      <webElementGuid>bda97190-a1ae-4829-999f-ee17cf01124f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

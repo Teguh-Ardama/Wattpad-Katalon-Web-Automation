@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jobs</name>
+   <tag></tag>
+   <elementGuidId>a5daa74e-6056-4324-b115-9740cb390c56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a.u5f7-.sB6J0._58Jsq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Jobs')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e575eeda-c19a-4678-a156-c69301122fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u5f7- sB6J0 _58Jsq</value>
+      <webElementGuid>c6667af9-daec-4fd6-8d13-6e250dd1facd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://company.wattpad.com/jobs</value>
+      <webElementGuid>a09a6bc6-949d-4175-84bd-fb81a53e2b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jobs</value>
+      <webElementGuid>6b903dd5-8a90-49e2-b202-a777d51a8c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/footer[@class=&quot;KsomK PUdBR _3iH-u&quot;]/ul[@class=&quot;la6-S ehTVt _96aZR PUdBR _3iH-u&quot;]/li[8]/a[@class=&quot;u5f7- sB6J0 _58Jsq&quot;]</value>
+      <webElementGuid>73959eaf-f321-4be1-a957-eaa9b831da97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jobs')]</value>
+      <webElementGuid>fb8cb90f-aab2-47b4-b73e-b2c685e6f602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Partnerships'])[1]/following::a[1]</value>
+      <webElementGuid>bd7f8403-9a9b-41e9-a714-ba2acea6ab76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Writers'])[1]/following::a[2]</value>
+      <webElementGuid>9509f95c-d826-4675-bada-6c080ee2cf5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press'])[1]/preceding::a[1]</value>
+      <webElementGuid>9ce5c5d9-512d-4f09-bb06-a975d144a81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/preceding::a[2]</value>
+      <webElementGuid>373ebeca-c3a8-4dc6-a5e7-756729029a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jobs']/parent::*</value>
+      <webElementGuid>57628d1a-45eb-41b2-9022-22af0dbc1a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://company.wattpad.com/jobs')]</value>
+      <webElementGuid>5a7ae0b2-2253-4c17-bc22-1f661dceccd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>3e2ede5f-0b52-4cdf-8784-c36b4a5132f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://company.wattpad.com/jobs' and (text() = 'Jobs' or . = 'Jobs')]</value>
+      <webElementGuid>6853df97-bf87-470e-abe9-eb9ee358d808</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

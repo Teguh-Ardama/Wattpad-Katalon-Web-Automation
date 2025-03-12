@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in</name>
+   <tag></tag>
+   <elementGuidId>ad576bcc-fe0d-4551-bb0c-6e4a500efb99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.HTd-M.button__Y70Pw.primary-variant__NO4pv.default-accent__Pc0Pm.medium-size__CLqD3.full-width__dXWyx.with-padding__cVt72 > span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Log in' or . = 'Log in')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login-form']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e09a902d-fb7f-47c2-bf5e-5418d47eafd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>bd32e8ef-fddd-47a0-a4b3-b6dbd388859d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form&quot;)/button[@class=&quot;HTd-M button__Y70Pw primary-variant__NO4pv default-accent__Pc0Pm medium-size__CLqD3 full-width__dXWyx with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>6df388c8-49ab-4c7b-bf38-a1c8a1e4b4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>fd78d46a-a57b-416a-be10-771bf27c375d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login-form']/button/span</value>
+      <webElementGuid>8e4e4420-8904-4e21-a816-d91186dd88d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>43a62ec3-b1ae-4233-950b-f637d36b5b6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
