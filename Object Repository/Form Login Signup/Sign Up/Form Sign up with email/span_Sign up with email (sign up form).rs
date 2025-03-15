@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign up with email (sign up form)</name>
+   <tag></tag>
+   <elementGuidId>2013b725-0a6c-461c-852a-4f7239665a75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Sign up with email' or . = 'Sign up with email')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.k6hqd.button__Y70Pw.primary-variant__NO4pv.default-accent__Pc0Pm.medium-size__CLqD3.clickable__iYXtN.full-width__dXWyx.with-padding__cVt72 > span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup-form']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c2a6677-96fc-46ad-a130-676608aad69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>de38c054-b32a-43d6-9391-43a702123123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/button[@class=&quot;k6hqd button__Y70Pw primary-variant__NO4pv default-accent__Pc0Pm medium-size__CLqD3 clickable__iYXtN full-width__dXWyx with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>4cf3144f-cacf-497d-88fb-e04744d2eaa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up with email</value>
+      <webElementGuid>9c6b72a7-f5bc-4cda-9e1d-122c7c4dde60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup-form']/button/span</value>
+      <webElementGuid>db63bc17-f07c-48ee-8ffb-44dc3f8ab64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>01c0a338-36e4-4849-8eff-62861ab13e7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

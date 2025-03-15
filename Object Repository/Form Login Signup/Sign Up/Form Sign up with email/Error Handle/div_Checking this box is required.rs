@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Checking this box is required</name>
+   <tag></tag>
+   <elementGuidId>fc78d1c0-d900-4778-b50b-021a2676cd9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#policy-consent > div.error-msg-new</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='policy-consent']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d69f69c0-b8f4-4954-a326-2205526f962e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>453575b4-b986-4e5b-8051-46a4f468d060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-msg-new</value>
+      <webElementGuid>bb70bf2e-cb07-4c19-b10f-6196277618b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>bc3eb0ac-4919-40d0-b3e7-0d30053cd811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checking this box is required.</value>
+      <webElementGuid>09babcbf-2624-454e-89ae-abc00e229ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/div[7]/div[@class=&quot;MUv--&quot;]/label[1]/div[@class=&quot;-EI4t mBXnn&quot;]/div[@id=&quot;policy-consent&quot;]/div[@class=&quot;error-msg-new&quot;]</value>
+      <webElementGuid>4c8300ac-7fd4-4cce-911f-c2e8435d49fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='policy-consent']/div</value>
+      <webElementGuid>bbc3cf66-999a-48d9-97b7-4f24ee4971fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::div[1]</value>
+      <webElementGuid>96517fe9-893e-4e46-bdff-6bfd1657ddcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Service'])[1]/following::div[1]</value>
+      <webElementGuid>2116f3c7-9cb3-4df8-83d4-fd45f187697f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up with email'])[1]/preceding::div[1]</value>
+      <webElementGuid>0f568b2a-f864-45f6-ab99-03d3a97aeeba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please fix any errors to continue.'])[1]/preceding::div[1]</value>
+      <webElementGuid>3b4755a5-d0ee-4a57-9b28-0cace5b7e466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checking this box is required.']/parent::*</value>
+      <webElementGuid>e385b71c-1f80-413c-a787-f6b311a92703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div/div</value>
+      <webElementGuid>986af7e8-5569-422d-ab1f-ff8636e63a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Checking this box is required.' or . = 'Checking this box is required.')]</value>
+      <webElementGuid>b08d653e-1eea-48db-a2be-18fd58f6ca33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

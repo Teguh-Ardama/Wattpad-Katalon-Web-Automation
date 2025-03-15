@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes, Id like to receive marketing emails from Wattpad. (optional)</name>
+   <tag></tag>
+   <elementGuidId>de4fb8e4-323b-42e7-9790-608fe5b28237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = concat(&quot;Yes, I&quot; , &quot;'&quot; , &quot;d like to receive marketing emails from Wattpad. (optional)&quot;) or . = concat(&quot;Yes, I&quot; , &quot;'&quot; , &quot;d like to receive marketing emails from Wattpad. (optional)&quot;))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ckEo7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='marketing-agreement']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ebe04777-6094-45bb-9b7c-52911aeab3bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ckEo7</value>
+      <webElementGuid>c6b453f1-9f86-401d-a6c5-5fddf43748dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, I'd like to receive marketing emails from Wattpad. (optional)</value>
+      <webElementGuid>6f047d23-030a-41d0-afbe-304b3891a6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/div[@class=&quot;margin-bottom-24&quot;]/div[@class=&quot;MUv--&quot;]/label[1]/div[@class=&quot;mBXnn&quot;]/div[@id=&quot;marketing-agreement&quot;]/span[@class=&quot;ckEo7&quot;]</value>
+      <webElementGuid>be13fbbc-abda-4d89-b490-8ba3289409b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='marketing-agreement']/span</value>
+      <webElementGuid>381bcc12-b22b-4902-a10b-051ce49374c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[2]/following::span[1]</value>
+      <webElementGuid>ce0acf2f-8f76-4741-8799-472bf51f95e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-enter Password'])[1]/following::span[1]</value>
+      <webElementGuid>59bfcfac-5f32-4d3a-ad97-5d289966efc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get story updates, announcements, offers, and more via email. Unsubscribe anytime.'])[1]/preceding::span[1]</value>
+      <webElementGuid>b4237140-ccfd-472b-b12d-00c8812fe7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>2c310a22-b483-419e-966c-e54d204ceb1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Yes, I&quot; , &quot;'&quot; , &quot;d like to receive marketing emails from Wattpad. (optional)&quot;) or . = concat(&quot;Yes, I&quot; , &quot;'&quot; , &quot;d like to receive marketing emails from Wattpad. (optional)&quot;))]</value>
+      <webElementGuid>90982599-cd68-4868-9383-e60409e01009</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

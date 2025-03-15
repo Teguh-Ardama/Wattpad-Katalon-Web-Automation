@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your password must be at 6-20 characters long</name>
+   <tag></tag>
+   <elementGuidId>3e155022-01f3-4358-88bf-9fe1ca136f63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'alert' and (text() = 'Your password must be at 6-20 characters long.' or . = 'Your password must be at 6-20 characters long.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.JK-go.Uh-0Z.XfaNK.moDHG.JK-go > div.error-msg-new</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup-form']/div[5]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2bb3e12-fad0-4072-b95a-6776b7fbe5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>e25a1471-b2bc-463a-b73d-a558556721e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-msg-new</value>
+      <webElementGuid>196e5336-53a3-4f13-99bf-7063f20eb228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>dbc06f5b-ad3a-412f-8dbb-01258a2fd668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your password must be at 6-20 characters long.</value>
+      <webElementGuid>f75dce19-58ff-46ec-b77e-6914d146bb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/div[5]/div[@class=&quot;SH5lw&quot;]/div[@class=&quot;JK-go Uh-0Z XfaNK moDHG JK-go&quot;]/div[@class=&quot;error-msg-new&quot;]</value>
+      <webElementGuid>8703d445-8bba-4bab-92ea-2edfc2f175b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup-form']/div[5]/div/div/div</value>
+      <webElementGuid>899d951f-2993-4e59-bc26-921c23d509e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[1]</value>
+      <webElementGuid>a68a1dd0-6f5f-43c3-b9f3-c984bacb3eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pronouns (optional)'])[1]/following::div[5]</value>
+      <webElementGuid>0cc428a9-10da-46c8-9c8a-5c9ea8923d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::div[1]</value>
+      <webElementGuid>aa8264f5-4be2-4406-b113-8120ae9859bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-enter Password'])[1]/preceding::div[2]</value>
+      <webElementGuid>b1ae3fad-c4dd-4b83-9765-8be799ac086b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your password must be at 6-20 characters long.']/parent::*</value>
+      <webElementGuid>053ef564-7832-4327-a6f4-9a1530405132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>fbcf3980-f8b2-4230-b313-8fe727f56ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your password must be at 6-20 characters long.' or . = 'Your password must be at 6-20 characters long.')]</value>
+      <webElementGuid>8e087854-ac26-4daf-9dd2-0595531261fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terms of Service</name>
+   <tag></tag>
+   <elementGuidId>206b3c65-6399-41f7-91d3-a9db8867824a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://policies.wattpad.com/terms' and (text() = 'Terms of Service' or . = 'Terms of Service')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ckEo7 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='policy-consent']/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25700d51-d838-4b19-a94b-ca996f40c7b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>11a15507-dce7-4a5d-88fa-a4c7344c7993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://policies.wattpad.com/terms</value>
+      <webElementGuid>2ccb7361-be5c-4ddc-aeda-38d1512643cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terms of Service</value>
+      <webElementGuid>4ae4ef0c-bdbb-4448-aa58-9da13f9e0343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/div[7]/div[@class=&quot;MUv--&quot;]/label[1]/div[@class=&quot;mBXnn&quot;]/div[@id=&quot;policy-consent&quot;]/span[@class=&quot;ckEo7&quot;]/a[1]</value>
+      <webElementGuid>46f23d5a-966a-435c-a3cc-1c7f4382bfd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='policy-consent']/span/a</value>
+      <webElementGuid>558aebbb-0d50-41ea-8346-9d1ae0411bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terms of Service')]</value>
+      <webElementGuid>00a7f6aa-6f27-4e60-8a30-bc534d258267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get story updates, announcements, offers, and more via email. Unsubscribe anytime.'])[1]/following::a[1]</value>
+      <webElementGuid>20f184c3-fca1-4f96-b0ef-11551c708e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[1]</value>
+      <webElementGuid>72cfc0d4-b0a2-4871-81fe-17bfdf207c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up with email'])[1]/preceding::a[2]</value>
+      <webElementGuid>cd8f66e3-c3ee-4260-8ca4-bbbc1810c772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terms of Service']/parent::*</value>
+      <webElementGuid>416cee46-e655-4a57-9d99-695dd0625531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://policies.wattpad.com/terms')]</value>
+      <webElementGuid>9873b2a0-0e53-4916-b4b3-4a641609e3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>7818d920-c4b8-45a2-bd34-ee84653d664f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://policies.wattpad.com/terms' and (text() = 'Terms of Service' or . = 'Terms of Service')]</value>
+      <webElementGuid>3bc86c46-9a48-44b2-aa79-b117a30613e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

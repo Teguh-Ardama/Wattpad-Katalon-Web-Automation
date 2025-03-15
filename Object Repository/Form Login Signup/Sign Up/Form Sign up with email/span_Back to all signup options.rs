@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back to all signup options</name>
+   <tag></tag>
+   <elementGuidId>d70dfa0e-97ce-46a8-93f0-7e358b711c97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Back to all signup options' or . = 'Back to all signup options')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.background-overlay__mCEaX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4fa3ec60-c5fd-464a-9a51-dec354ddc726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-overlay__mCEaX</value>
+      <webElementGuid>00305f18-8cfc-4b6c-8f26-c5144aca17e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme-6&quot;]/header[@class=&quot;_11tkV&quot;]/div[@class=&quot;V6xUE _7Y1LD&quot;]/div[@class=&quot;uWKBG mQAIZ UCQAd&quot;]/div[@class=&quot;DPNYd KeF9t y8BeG&quot;]/div[@class=&quot;_39lYR eNMWT&quot;]/div[@class=&quot;bJPuR&quot;]/div[@class=&quot;p2vKb&quot;]/button[@class=&quot;g1gZ3 button__Y70Pw tertiary-variant__Y9kWU default-accent__Pc0Pm medium-size__CLqD3 clickable__iYXtN with-padding__cVt72&quot;]/span[@class=&quot;background-overlay__mCEaX&quot;]</value>
+      <webElementGuid>5d245d40-d52c-44d6-8a0d-b733725c507a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to all signup options</value>
+      <webElementGuid>f4e5176e-678a-49a0-93ea-c811691faade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>869f8cf4-41c5-461d-8637-9983ccf78971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
