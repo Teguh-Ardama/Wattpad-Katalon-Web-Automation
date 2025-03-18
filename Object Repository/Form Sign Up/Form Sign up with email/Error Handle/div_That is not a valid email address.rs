@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_That is not a valid email address</name>
+   <tag></tag>
+   <elementGuidId>8d178918-5092-4d45-8081-858fd7a4d8c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'alert' and (text() = 'That is not a valid email address.' or . = 'That is not a valid email address.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error-msg-new</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup-form']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b657a0c-c596-415b-b966-bbb2b70d1e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>67c54e38-c686-4695-b77e-10e85981359d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-msg-new</value>
+      <webElementGuid>f4a416e7-fe40-41bb-aa0b-1ca013643653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>3da1acdb-012f-4717-b2fb-53c4a62bf106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>That is not a valid email address.</value>
+      <webElementGuid>2fa307a8-fa1d-451a-a441-eb787f1dce92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/div[@class=&quot;JK-go Uh-0Z XfaNK moDHG JK-go&quot;]/div[@class=&quot;error-msg-new&quot;]</value>
+      <webElementGuid>538bb0b2-2741-4c9d-8421-85466852b737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup-form']/div/div</value>
+      <webElementGuid>ff2ad221-ad9d-4517-8506-f32861dd3a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/following::div[1]</value>
+      <webElementGuid>c69123b5-7900-4dc1-8e4f-093f6166b05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[1]</value>
+      <webElementGuid>ef9e5094-c22c-42af-ad49-1a2874fd9026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthday'])[1]/preceding::div[2]</value>
+      <webElementGuid>aebba887-401e-4c78-9dda-9f7cc295290f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='That is not a valid email address.']/parent::*</value>
+      <webElementGuid>42192278-75f5-4016-9bee-e443026c4fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>f603f5bd-6fed-4240-ab59-1fb4159f99fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'That is not a valid email address.' or . = 'That is not a valid email address.')]</value>
+      <webElementGuid>f48c8bde-7177-4eec-855c-8a8eba0bccfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is required.'])[1]/preceding::div[1]</value>
+      <webElementGuid>5d104876-f2ac-4227-884b-df4218022931</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

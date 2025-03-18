@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This browser or app may not be secure. Learn more</name>
+   <tag></tag>
+   <elementGuidId>2ee033c7-a32c-4dca-b1d4-62b434e832cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'This browser or app may not be secure. Learn more' or . = 'This browser or app may not be secure. Learn more')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dMNVAe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08902c50-3836-45e3-8c94-4ee3cd82b9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dMNVAe</value>
+      <webElementGuid>3e27d0c0-9551-4656-a6b0-55278ed2e365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This browser or app may not be secure. Learn more</value>
+      <webElementGuid>7dec5448-8603-4b4f-b492-7a79e01e3805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;A77ntc&quot;]/div[@class=&quot;Svhjgc&quot;]/div[@class=&quot;UXFQgc&quot;]/div[@class=&quot;qWK5J&quot;]/div[@class=&quot;xKcayf&quot;]/div[@class=&quot;AcKKx&quot;]/form[1]/span[1]/section[@class=&quot;Em2Ord&quot;]/div[@class=&quot;yTaH4c&quot;]/div[1]/div[1]/div[@class=&quot;dMNVAe&quot;]</value>
+      <webElementGuid>6afe81c2-bc10-49bd-9232-235c726d73f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div/div</value>
+      <webElementGuid>79307ffd-585b-4957-a37e-19c71b345610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Couldn’t sign you in'])[1]/following::div[9]</value>
+      <webElementGuid>41627886-e4ba-4b2d-b1ce-e7a847ab2467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (United States)'])[1]/preceding::div[10]</value>
+      <webElementGuid>583ed9e5-4628-403e-9700-d55bebdde0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This browser or app may not be secure.']/parent::*</value>
+      <webElementGuid>f430b957-ab4c-4160-9a68-1c2d533961ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div</value>
+      <webElementGuid>cc717c88-4dca-4e82-9d38-59bbcfcc4e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This browser or app may not be secure. Learn more' or . = 'This browser or app may not be secure. Learn more')]</value>
+      <webElementGuid>f2e70ee6-4232-4352-a39f-b2972783b603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

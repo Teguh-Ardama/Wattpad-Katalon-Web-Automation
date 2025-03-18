@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004 - Login with invalid account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f41427ac-7a87-40dd-b202-97e9bc302fb5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3891b4fe-500b-40c5-b662-9242c76ffde9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55db2ce8-e5ea-4c19-8fd5-a123023255cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e06f6aa-fe49-4d7d-8af8-b50fd4606274</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama@gmail.com'</defaultValue>
+      <description></description>
+      <id>3891b4fe-500b-40c5-b662-9242c76ffde9</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Teguh12#12'</defaultValue>
+      <description></description>
+      <id>55db2ce8-e5ea-4c19-8fd5-a123023255cf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.wattpad.com/login?error=1029&amp;nextUrl=https%3A%2F%2Fwww.wattpad.com%2Fhome'</defaultValue>
+      <description></description>
+      <id>5e06f6aa-fe49-4d7d-8af8-b50fd4606274</id>
+      <masked>false</masked>
+      <name>expectedURL</name>
+   </variable>
+</TestCaseEntity>

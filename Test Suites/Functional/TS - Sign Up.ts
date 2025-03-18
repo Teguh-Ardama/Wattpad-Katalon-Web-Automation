@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>c1766148-d8f0-43ea-a868-dce533df9f5f</testSuiteGuid>
    <testCaseLink>
-      <guid>b85d2947-abff-49e2-8cdf-64f97ed8447c</guid>
+      <guid>e0fb5e40-9a77-4ce3-95b6-97eb1f204fc1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC001 - Register with valid credentials</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC001 - Register with valid credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -67,10 +67,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>8eb3d420-3307-485c-b533-836beca3686e</guid>
+      <guid>c29bf633-3d5b-4cc3-ae9c-58c6a0ac282d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC002 - Register with Show password</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC002 - Register with Show password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -122,10 +122,65 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>d57b3835-713f-48c8-9b60-0fae9056b7b7</guid>
+      <guid>5ea6d91f-81f6-4369-a395-957df4c29d2f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC003 - Register with valid credentials and without filling in optional fields</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC003 - Register with Hide password</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a601cd0b-c969-4258-a0eb-7cf757836785</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2127360b-5b0b-4a91-aa70-5f1ac4b91a29</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e3e37e89-171d-4760-be0f-4d1d88b8915d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a700d030-b812-4ba7-bbcd-6c26ac270d3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2d30b92e-a22a-4a14-b548-9af6799f6559</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b37664ee-c0d2-45a3-b8a8-dbc40713efa1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b703faa2-804b-4a96-801e-694148f88d01</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c13318da-8bda-46bd-bf98-c78375408c9c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6d071f13-3ceb-42aa-b649-04afee7c0cc4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC004 - Register with valid credentials and without filling in optional fields</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -177,10 +232,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>d02ed58d-4b19-4dd4-87cc-2868b9a68ad2</guid>
+      <guid>4b18af65-92fb-4b03-99eb-5ab3fa903f8a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC004 - Register with Invalid Email</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC005 - Register with Invalid Email</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -232,10 +287,65 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>a303511d-9392-498c-8142-73804dac34a6</guid>
+      <guid>cab06a9e-7c29-4d1c-85ff-2e3a8223ef59</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC005 - Register with Invalid Password</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC006 - Register with Invalid Username</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>24ba0654-dca6-4717-b505-450933958878</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea9203c4-abe2-4bbb-944d-b5639ed3e52d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7b6a3ce9-8b10-4ca1-8365-7229b1f4e804</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ae7dd3fd-be3a-4edd-9f69-0922c482b4e2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7fc76f30-88c4-47af-bd7d-32d1994427e3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eea5c1f2-19aa-4ffa-a326-4f9862e45715</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>994107e6-aaf5-4e31-adaf-944978cd6119</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce331392-4daf-464a-8714-d16ac3114851</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7b16c24d-a163-4642-b576-02a1107e7305</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC007 - Register with Invalid Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -287,10 +397,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>2fe9c3c9-4816-4fcf-ae21-01bd0029ffa6</guid>
+      <guid>c19b5c99-d40a-4654-9a93-35c67a109a36</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC006 - Register with Different Password</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC008 - Register with Different Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -342,65 +452,65 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>86ee3bc8-737a-496d-ab95-850c4f2c6bd3</guid>
+      <guid>cd64ed4c-b76e-46aa-9f6e-f72f915f95a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC007 - Cancel Register</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC009 -Registration Invalid Password Length</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>71e186b8-2d2a-412e-8fe5-c3bd77d9b30e</variableId>
+         <variableId>ee2f6aee-03c5-4c56-b2d5-1e0412563eca</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>18cc6d9e-5759-4793-a216-e825d6d5c27a</variableId>
+         <variableId>2673db4b-669e-47bd-b6bc-75fab4cba8a3</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>b70df0a2-a7a3-4c16-b99a-45c3bb83a8b9</variableId>
+         <variableId>b543aa34-2d71-40ad-9966-d82d2b4abb28</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>58b76d72-d6a3-4dc1-89a8-5e4e960fc462</variableId>
+         <variableId>5ffe750f-da65-48ff-af43-024c844614a8</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>384e24d9-c1e1-43cf-acf6-520b56ce7690</variableId>
+         <variableId>5de23e1c-fd04-40de-a421-8eab8f0f8d3e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>bb8ed8dd-60b7-4671-9531-df1a991d45ee</variableId>
+         <variableId>9dd68f99-e0d9-40af-b6dd-729da3f46170</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>8f8c6ec5-b803-46be-880b-3f7e33a43b15</variableId>
+         <variableId>23c9fc07-f56e-44e4-b2fa-765ed493ccdc</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>9db25a82-4295-46d4-815a-484a88a793b3</variableId>
+         <variableId>aadce191-2967-4532-9726-c0cdb0bec63e</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>4bc58872-134c-45f5-b30b-7de2d373ef2e</guid>
+      <guid>44669fd5-fe59-448f-8131-e71573744de6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC008 - Submit without filling credentials</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC010 - Submit without filling credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -452,10 +562,65 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c43baed6-bb20-4a6f-876d-a0dfc04b8091</guid>
+      <guid>2ef2401f-f041-4165-b69b-455acf14d8a5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SC001 - Sign Up/TC009 - Register by filling in the username with characters</testCaseId>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC011 - Cancel Register</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>71e186b8-2d2a-412e-8fe5-c3bd77d9b30e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>18cc6d9e-5759-4793-a216-e825d6d5c27a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b70df0a2-a7a3-4c16-b99a-45c3bb83a8b9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>58b76d72-d6a3-4dc1-89a8-5e4e960fc462</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>384e24d9-c1e1-43cf-acf6-520b56ce7690</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bb8ed8dd-60b7-4671-9531-df1a991d45ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8f8c6ec5-b803-46be-880b-3f7e33a43b15</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9db25a82-4295-46d4-815a-484a88a793b3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>13d3b935-c5ee-435a-8d06-fe7bd0666ea8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC012 - Register by filling in the username with characters</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -505,5 +670,287 @@
          <value></value>
          <variableId>f962ee96-96e2-4ddf-89ce-99085aac4921</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1d390ed7-3d8a-4b99-a162-fb31301acd71</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC013 - Registration without filling in the month</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2e627daf-fb82-4c89-8fd5-870c8e045a9b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a5870cb2-36ab-43e3-94e6-0bcf0b0bc8f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5591011f-ef27-4ad4-bbdf-7ae998487e2d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>949d9287-b061-4caf-b53d-48bc38d4df63</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>98040768-18f5-44bc-9fa9-f7deddd62b68</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4cf4c6b6-1d9d-4a93-904c-ccf2f3953643</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>79ae8903-facc-43d9-ac93-29d2c7451d7a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>18da1141-e56a-4aff-b2c6-e3db0d2aaf0c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d6bc70da-0507-4c59-9b0c-d7954183979e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC014 - Registration without filling in days</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0b925474-c5c5-4de2-aca8-eb3c50c7107e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bd7d9c77-defa-42b7-a13b-50f6973ccc00</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2cb98d65-86bc-4903-bc8c-d928ecf881af</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6cc06a7c-a2f6-4c1f-90d3-fd776c9c9c9c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc7e222c-73b4-485e-b183-e6dacf739751</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>06587a9d-d113-4657-9cf1-d31611aca49b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>40ac52ba-dd0d-4e44-afa5-d27538161924</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>861dbdd5-fd2b-456f-bbd6-687aaf3475d1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e4b352fe-6c45-45f1-a756-11c1cfd7456c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC015 - Registration without filling in years</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cd1b7eaf-0f46-4fa5-bc85-875a8356daf7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e17fff32-6cbd-41f2-b58f-11ec549e033a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>804d9e3f-f595-4459-94c7-b54525a49507</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c255fe71-8f52-4847-bba1-627fecdbba10</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1c63a396-705a-4471-8aac-989a98692a31</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b17b2789-9f8c-4944-898b-ee5909da51ad</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b5a2e080-d0d7-4d34-aa50-c0edd714b504</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a6ec59c6-0af5-42af-a7d7-61c6b05c0c0e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7b3d7af3-1559-432f-89ab-2b165a198319</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC016 - Registration Invalid Birthdate Today</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>456fb3f7-6728-439d-9b5e-1cab90070960</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0df74b5e-342c-4ebd-8d05-096c1e3e2206</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5cc5aa52-fbf1-44bd-b094-0515ec5836f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4f4de189-78ab-40c0-a98b-c35a01b3bcd4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>313794a4-07d4-4a2c-9f36-c09ca6974d71</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3ad5e05f-cbce-4ddc-91bc-6af59a93a9f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5e56c5d9-f0f5-415f-8089-d4478822b6b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7548e53e-aeb3-4b71-b0c6-901f88da7b2d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>10b53b95-f5cf-429e-bbca-601d6d01fca5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC017 - Registration Invalid Birthdate Future</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b1fd22f7-eff9-46a9-9ed5-aabf56eea6f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>161c2d7c-b68a-4c93-ac8f-80d489b805fc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f78a0de8-dc16-43a4-bb6e-25710a21a49a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b0cdf0ae-0d89-49a3-9348-9b9c47a589be</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ba70a6f4-ee96-43d0-afa1-50c279a3b188</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b474bab9-4577-45d3-9f3c-43552d0f3ef3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b0177474-cc86-48f7-8f0f-a46463e1bf67</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>99b75121-9e08-4964-8eeb-71b502235317</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ce5ca12e-963a-4c1b-ba65-6998ba065dc3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SC001 - Sign Up with Email/TC018 - Validation already have an account</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

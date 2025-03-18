@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Log in to Wattpad</name>
+   <tag></tag>
+   <elementGuidId>6ee57995-6f7d-485f-a58d-c342d18c90ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[@class = 'title' and (text() = 'Log in to Wattpad' or . = 'Log in to Wattpad')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='authentication-panel']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bd22ccc4-95df-4d34-87cc-905be1f923d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>13936fdf-a3bf-401e-aeef-465dcafb5760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in to Wattpad</value>
+      <webElementGuid>0ffc1bbe-222d-4e26-9474-9855d774832b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-authform-auth-form-%2flogin&quot;)/div[@class=&quot;auth-form-padding&quot;]/div[@id=&quot;authentication-panel&quot;]/p[@class=&quot;title&quot;]</value>
+      <webElementGuid>a65d24d3-5cf4-4d17-b060-afb50e08872e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authentication-panel']/p</value>
+      <webElementGuid>7499bb51-ade4-45fb-add4-95b12795ea84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::p[1]</value>
+      <webElementGuid>2f042ade-bf6d-4785-8575-14a0c7273412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::p[1]</value>
+      <webElementGuid>870f4a00-89d1-42b5-927c-4910d01e8936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in with Google'])[1]/preceding::p[1]</value>
+      <webElementGuid>c130d0eb-cc76-49b3-bb21-5f86949e8766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in with Facebook'])[1]/preceding::p[1]</value>
+      <webElementGuid>e4b4966b-1f9a-4b11-9d21-3606eec24135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in to Wattpad']/parent::*</value>
+      <webElementGuid>527cd390-961f-4cc6-9bbc-c1b81bc61d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>d5721076-bfa4-46cb-b745-4b726e0a9a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Log in to Wattpad' or . = 'Log in to Wattpad')]</value>
+      <webElementGuid>e15df1df-aa47-487c-ad83-916b4c50f58b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

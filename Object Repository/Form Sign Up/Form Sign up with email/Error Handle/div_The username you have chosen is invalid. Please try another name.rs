@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The username you have chosen is invalid. Please try another name</name>
+   <tag></tag>
+   <elementGuidId>b4b8d9b6-b0a5-474f-ab6e-652cdc5479b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role = 'alert' and (text() = 'The username you have chosen is invalid. Please try another name.' or . = 'The username you have chosen is invalid. Please try another name.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error-msg-new</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup-form']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4522bc75-a372-4a29-acd0-1536060fe099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>53b6db30-824e-4199-97ba-eb9b40c593b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-msg-new</value>
+      <webElementGuid>248dbd2e-90a3-4861-b991-22f5ecc02089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>51bddda5-985c-4af0-abba-04c1304fb0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The username you have chosen is invalid. Please try another name.</value>
+      <webElementGuid>f58055d5-cede-440c-8748-9b160fb29795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup-form&quot;)/div[@class=&quot;JK-go Uh-0Z XfaNK moDHG JK-go&quot;]/div[@class=&quot;error-msg-new&quot;]</value>
+      <webElementGuid>27fcf93c-487a-4387-8884-c2cf8da2c449</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup-form']/div[2]/div</value>
+      <webElementGuid>2b51df33-ca0d-44eb-a104-0a49fd128a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::div[1]</value>
+      <webElementGuid>2c7081ee-3570-4ecd-aa91-ca47234d796f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/following::div[2]</value>
+      <webElementGuid>832fa1c7-68a3-4153-b48a-42fe1771f016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthday'])[1]/preceding::div[1]</value>
+      <webElementGuid>71d94a5d-c3d8-4b0e-9f7f-cf97db8dd4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pronouns (optional)'])[1]/preceding::div[10]</value>
+      <webElementGuid>66a94d16-2e74-47ec-ab86-a20a885553dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The username you have chosen is invalid. Please try another name.']/parent::*</value>
+      <webElementGuid>20c5fbbb-a9a6-4357-a6a1-592ec1d039a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>5cd61b25-d98d-4089-bd77-55fc4bb7b177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The username you have chosen is invalid. Please try another name.' or . = 'The username you have chosen is invalid. Please try another name.')]</value>
+      <webElementGuid>b0467e14-e582-45f9-a9b6-3507971b96f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

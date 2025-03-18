@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Forgot email</name>
+   <tag></tag>
+   <elementGuidId>e6717068-9df6-4416-920c-b9999e0084c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and (text() = 'Forgot email?' or . = 'Forgot email?')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dMNVAe > button[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f576c16-25ee-4db9-9ae5-100157b0f895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>Cuz2Ue</value>
+      <webElementGuid>3bf35e27-127e-476d-b1bb-0b1c3e8ae36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a6fbb4ae-624e-4cc5-93a5-66bc3331beee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot email?</value>
+      <webElementGuid>ae16fb0d-67bd-4b1e-bb5b-f8210d85e8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;A77ntc&quot;]/div[@class=&quot;Svhjgc&quot;]/div[@class=&quot;UXFQgc&quot;]/div[@class=&quot;qWK5J&quot;]/div[@class=&quot;xKcayf&quot;]/div[@class=&quot;AcKKx&quot;]/form[1]/span[1]/section[@class=&quot;Em2Ord&quot;]/div[@class=&quot;yTaH4c&quot;]/div[1]/div[@class=&quot;dMNVAe&quot;]/button[1]</value>
+      <webElementGuid>defc5e32-1975-46c7-a866-ef3e9fd76a46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>fc2abcd2-3fce-4bf7-b519-491856f048f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div[3]/button</value>
+      <webElementGuid>b4ca0d93-4604-4df6-bed5-94367b8910be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wattpad'])[1]/following::button[1]</value>
+      <webElementGuid>930f8c53-8d93-4644-a5b0-5a2cbe38c0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms of service'])[1]/preceding::button[2]</value>
+      <webElementGuid>e6178515-2fc7-4648-a183-1d76f1e4e9c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot email?']/parent::*</value>
+      <webElementGuid>3be591d5-d9e6-4617-be40-e1e8ef51f986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>156e3a0a-52cb-4c56-8cd4-a5c0fef098e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Forgot email?' or . = 'Forgot email?')]</value>
+      <webElementGuid>0a245115-a027-4f1f-93c6-b0cec64b47be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

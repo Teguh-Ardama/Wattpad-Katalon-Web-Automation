@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - Login with valid account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e0723d4-918b-40a2-bf20-3916db3c7954</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffc99040-5e55-4c22-90a3-584296b02108</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1929c252-71d7-43e4-bae6-33847b148e19</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0286635a-3768-495c-8f49-4835b47c6c42</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama75@gmail.com'</defaultValue>
+      <description></description>
+      <id>ffc99040-5e55-4c22-90a3-584296b02108</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Teguh12#12'</defaultValue>
+      <description></description>
+      <id>1929c252-71d7-43e4-bae6-33847b148e19</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.wattpad.com/(home)?'</defaultValue>
+      <description></description>
+      <id>0286635a-3768-495c-8f49-4835b47c6c42</id>
+      <masked>false</masked>
+      <name>expectedURL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify Wattpad Picks</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f66e16a2-bdb7-44d0-8c7d-177581b785b5</testCaseGuid>
-</TestCaseEntity>

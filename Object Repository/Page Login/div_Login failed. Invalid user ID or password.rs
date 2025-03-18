@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login failed. Invalid user ID or password</name>
+   <tag></tag>
+   <elementGuidId>8f1b66c3-edf7-428c-b0dc-1faa223515d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'alert alert-danger' and @role = 'alert' and (text() = 'Login failed. Invalid user ID or password.' or . = 'Login failed. Invalid user ID or password.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='authentication-panel']/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1093657a-9791-41c5-973e-af13525e52e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger</value>
+      <webElementGuid>91ae68df-4e78-4a66-a1ff-a650ec7df6c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>97dc3ed9-d942-4767-8b05-ad6e51133bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login failed. Invalid user ID or password.</value>
+      <webElementGuid>34324a61-9625-4667-93db-98b1dd67cedb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-authform-auth-form-%2flogin&quot;)/div[@class=&quot;auth-form-padding&quot;]/div[@id=&quot;authentication-panel&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;alert alert-danger&quot;]</value>
+      <webElementGuid>60cc2301-fc95-4559-94ec-6c332147f201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authentication-panel']/div/div[3]</value>
+      <webElementGuid>dd81d07a-3544-4847-a35b-791a303d5b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::div[1]</value>
+      <webElementGuid>ed4449b9-7061-403b-a7ee-b89c18393f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in with email'])[1]/following::div[1]</value>
+      <webElementGuid>8c44025a-d5ef-4007-b9d9-680ab16c390e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the app in seconds.'])[1]/preceding::div[2]</value>
+      <webElementGuid>f20ed303-ce00-4100-be32-20ec6d71b8e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login failed. Invalid user ID or password.']/parent::*</value>
+      <webElementGuid>4144b5f6-91a7-49a7-928a-0da56678362c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]</value>
+      <webElementGuid>83e72a94-5974-490b-91df-9bd014e19954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login failed. Invalid user ID or password.' or . = 'Login failed. Invalid user ID or password.')]</value>
+      <webElementGuid>89fee9e5-1c02-4487-8f95-61969973e683</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

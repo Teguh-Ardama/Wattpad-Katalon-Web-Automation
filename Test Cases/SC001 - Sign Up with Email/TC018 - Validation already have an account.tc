@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018 - Validation already have an account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcf9a1eb-5a91-4ea4-8448-46ccd6afcef7</testCaseGuid>
+</TestCaseEntity>

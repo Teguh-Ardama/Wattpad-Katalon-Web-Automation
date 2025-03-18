@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try Again</name>
+   <tag></tag>
+   <elementGuidId>8fbf9e54-7293-4a06-bf1d-fa7256ce3c2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@aria-label = 'Try again']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.WpHeLc.VfPpkd-mRLv6.VfPpkd-RLmnJb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='next']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7ac6d453-7eb1-42a3-ba58-5489c6177741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb</value>
+      <webElementGuid>6ab91dac-54e3-4c77-bc28-7287aab3f772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/restart?app_domain=https%3A%2F%2Fwww.wattpad.com&amp;client_id=819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOvW_rhWmUoliCjuSYs7cAO2jTTnLn4STuQ9jbwwYQvduQ3TfRLW19maYy_W4mCa91c1ho5iKNcJatfLM7p2425H8qEAuv0LN5_HIVkA2S9VNeE3BmnWKDTVeUmqUlvV0wOlM1adKJyN0bg9C4LpKdfBbKhkWypAGjeec4K6p9xj78SbhXHYOgkLS4K2dn1qFsPrlslPHBWLFz_ZNv_uEcDHTeKpvXVO36tOFYSO-Y0EIdhmC2aUFYe7gumuGhH6BJ_zPVY8KTr5DTqyHb1Ofs8km2Eq_Wc2Z_AvpQl7GGHE3XDrS0r95oN3SdjFl2hXIlS_wt4BDf6IQCURE87U-tNj8seqTX8WhLJqjxy4fezUyw-kKTwUUlgiIm8bxq4kWCmMDzS82vQjJAllTwUXp6Dyvazvx65BsZztqi4Q5NsZpXL4lQy3-pXlJA5CX3y8lWFvPtV-0tLkrEJ_a8WtsqeLZMy8w%26flowName%3DGeneralOAuthFlow%26as%3DS2114582382%253A1742090319720023%26client_id%3D819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com%23&amp;ddm=1&amp;dsh=S2114582382%3A1742090319720023&amp;flowName=GeneralOAuthFlow&amp;gsiwebsdk=3&amp;include_granted_scopes=true&amp;o2v=2&amp;opparams=%253Fenable_granular_consent%253Dtrue&amp;prompt=select_account&amp;rart=ANgoxccyDq0i-_GAWis30QHe89yvdJVmvmQSHVDQEj1VIGcIVpxB-0qyTJtsfvr9jV7z_gKAABqF0YEVF6jUDSMtHwRn3zoORpmj14vTd8w6qklaq3cxbn8&amp;redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.wattpad.com%3Fid%3Dauth329519&amp;response_type=token&amp;scope=profile%20openid%20email&amp;service=lso</value>
+      <webElementGuid>73eb9643-1e4f-462f-806d-70f7dadc0607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Try again</value>
+      <webElementGuid>14b6b352-efd3-4d16-8b88-4011d0ca3972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-navigation</name>
+      <type>Main</type>
+      <value>server</value>
+      <webElementGuid>aeef51c8-da97-4c11-9109-c185e8f7c169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>hSRGPd</value>
+      <webElementGuid>e33e22e8-d148-411a-82aa-7b36a0ce5d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/div[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b&quot;]/a[@class=&quot;WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>253e356d-d159-4a00-93e1-22e92c31022d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='next']/div/div/a</value>
+      <webElementGuid>f1bea76f-c1aa-42a8-9404-926645c35002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/restart?app_domain=https%3A%2F%2Fwww.wattpad.com&amp;client_id=819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOvW_rhWmUoliCjuSYs7cAO2jTTnLn4STuQ9jbwwYQvduQ3TfRLW19maYy_W4mCa91c1ho5iKNcJatfLM7p2425H8qEAuv0LN5_HIVkA2S9VNeE3BmnWKDTVeUmqUlvV0wOlM1adKJyN0bg9C4LpKdfBbKhkWypAGjeec4K6p9xj78SbhXHYOgkLS4K2dn1qFsPrlslPHBWLFz_ZNv_uEcDHTeKpvXVO36tOFYSO-Y0EIdhmC2aUFYe7gumuGhH6BJ_zPVY8KTr5DTqyHb1Ofs8km2Eq_Wc2Z_AvpQl7GGHE3XDrS0r95oN3SdjFl2hXIlS_wt4BDf6IQCURE87U-tNj8seqTX8WhLJqjxy4fezUyw-kKTwUUlgiIm8bxq4kWCmMDzS82vQjJAllTwUXp6Dyvazvx65BsZztqi4Q5NsZpXL4lQy3-pXlJA5CX3y8lWFvPtV-0tLkrEJ_a8WtsqeLZMy8w%26flowName%3DGeneralOAuthFlow%26as%3DS2114582382%253A1742090319720023%26client_id%3D819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com%23&amp;ddm=1&amp;dsh=S2114582382%3A1742090319720023&amp;flowName=GeneralOAuthFlow&amp;gsiwebsdk=3&amp;include_granted_scopes=true&amp;o2v=2&amp;opparams=%253Fenable_granular_consent%253Dtrue&amp;prompt=select_account&amp;rart=ANgoxccyDq0i-_GAWis30QHe89yvdJVmvmQSHVDQEj1VIGcIVpxB-0qyTJtsfvr9jV7z_gKAABqF0YEVF6jUDSMtHwRn3zoORpmj14vTd8w6qklaq3cxbn8&amp;redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.wattpad.com%3Fid%3Dauth329519&amp;response_type=token&amp;scope=profile%20openid%20email&amp;service=lso')]</value>
+      <webElementGuid>02af2052-2d43-467e-978a-23cfa1be2bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a</value>
+      <webElementGuid>c479f0ea-897f-48d2-ad76-b6743965c022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/restart?app_domain=https%3A%2F%2Fwww.wattpad.com&amp;client_id=819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOvW_rhWmUoliCjuSYs7cAO2jTTnLn4STuQ9jbwwYQvduQ3TfRLW19maYy_W4mCa91c1ho5iKNcJatfLM7p2425H8qEAuv0LN5_HIVkA2S9VNeE3BmnWKDTVeUmqUlvV0wOlM1adKJyN0bg9C4LpKdfBbKhkWypAGjeec4K6p9xj78SbhXHYOgkLS4K2dn1qFsPrlslPHBWLFz_ZNv_uEcDHTeKpvXVO36tOFYSO-Y0EIdhmC2aUFYe7gumuGhH6BJ_zPVY8KTr5DTqyHb1Ofs8km2Eq_Wc2Z_AvpQl7GGHE3XDrS0r95oN3SdjFl2hXIlS_wt4BDf6IQCURE87U-tNj8seqTX8WhLJqjxy4fezUyw-kKTwUUlgiIm8bxq4kWCmMDzS82vQjJAllTwUXp6Dyvazvx65BsZztqi4Q5NsZpXL4lQy3-pXlJA5CX3y8lWFvPtV-0tLkrEJ_a8WtsqeLZMy8w%26flowName%3DGeneralOAuthFlow%26as%3DS2114582382%253A1742090319720023%26client_id%3D819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com%23&amp;ddm=1&amp;dsh=S2114582382%3A1742090319720023&amp;flowName=GeneralOAuthFlow&amp;gsiwebsdk=3&amp;include_granted_scopes=true&amp;o2v=2&amp;opparams=%253Fenable_granular_consent%253Dtrue&amp;prompt=select_account&amp;rart=ANgoxccyDq0i-_GAWis30QHe89yvdJVmvmQSHVDQEj1VIGcIVpxB-0qyTJtsfvr9jV7z_gKAABqF0YEVF6jUDSMtHwRn3zoORpmj14vTd8w6qklaq3cxbn8&amp;redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.wattpad.com%3Fid%3Dauth329519&amp;response_type=token&amp;scope=profile%20openid%20email&amp;service=lso']</value>
+      <webElementGuid>620bfe67-cd56-4556-b1ee-a95032341755</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
